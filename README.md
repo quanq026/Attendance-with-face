@@ -57,6 +57,11 @@ A Python-based employee attendance system with face recognition and Discord bot 
      - Manage employee data (rename, update DOB, delete).
      - Export attendance logs and employee lists.
 
+   For a more modern interface powered by **PyQt6**, run:
+   ```bash
+   python modern_ui.py
+   ```
+
 2. **Run the Discord bot**:
    Start the bot to enable Discord commands:
    ```bash
